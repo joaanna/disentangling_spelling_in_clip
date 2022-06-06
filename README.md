@@ -29,8 +29,4 @@ dgf
 
 ### Citation
 
----
-
-to discuss:
-- the images in the dataset are very bright, is that not an issue?
 
