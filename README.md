@@ -34,7 +34,12 @@ The dataset contains annotation json file `annotation.json` with format a list o
 
 ### Citation
 If you use this data, please cite the following papers:
-creative-commons with attribution license (to require citation)
----
+`@inproceedings{materzynskadisentangling,
+Author = {Joanna Materzynska and Antonio Torralba and David Bau},
+Title = {Disentangling visual and written concepts in CLIP},
+Year = {2022},
+Booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+}`
+
 
 
