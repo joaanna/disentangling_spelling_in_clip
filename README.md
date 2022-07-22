@@ -3,12 +3,16 @@
 
 
 - [x] training projection script
-- [ ] uploaded pre-trained models
+- [x] uploaded pre-trained models
 - [ ] text-to-image generation notebook
 - [x] Typographic Attack Dataset released
 
 
 ---
+## Pre-trained models
+The models used for text-to-image generation can be found [here](https://drive.google.com/drive/folders/1fEtrPKKVl_7dZAgwAXNWFEuR0l6K2VY3?usp=sharing).
+
+
 ## Applications
 To use the pre-trained models:
 
