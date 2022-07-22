@@ -2,7 +2,7 @@
 #### Official PyTorch implementation of the CVPR 2022 oral paper, [project website](https://joaanna.github.io/disentangling_spelling_in_clip/)
 
 
-- [ ] training projection script
+- [x] training projection script
 - [ ] uploaded pre-trained models
 - [ ] text-to-image generation notebook
 - [x] Typographic Attack Dataset released
@@ -20,7 +20,7 @@ def project(x, W):
     x_projected /= np.linalg.norm(x_projected, axis=1)[:, None]
     return x_projected`
 
-### Text-to-Image generation
+#Text-to-Image generation
 For generating images we refer to the notebook of Kathrine Crowson https://colab.research.google.com/drive/15UwYDsnNeldJFHJ9NdgYBYeo6xPmSelP. To generate images using the projection matrices, we compute the objective function using the projected features instead of CLIP feature vectors. 
 We plan to provide a modified notebook to show-case this application.
 The OCR detection was done using `easyocr` toolbox. 
