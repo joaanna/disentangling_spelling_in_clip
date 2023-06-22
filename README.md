@@ -37,7 +37,7 @@ We plan to provide a modified notebook to show-case this application. The OCR de
 We collected 180 images of 20 objects with 8 typographic attack labels. 
 The dataset is available at https://drive.google.com/drive/folders/17v74pmQs2zHrs9sJ_8D0bfrz5ykB5ZW2?usp=sharing. 
 The dataset contains annotation json file `annotation.json` with format a list of files: 
-`{"IMG_2934.JPG": {"true object": "cup", "typographic attack label": "good"}`.
+`{"IMG_2934.JPG": {"true object": "cup", "typographic attack label": "good"}`. The dataset was released under the MIT license.
 
 
 ----
